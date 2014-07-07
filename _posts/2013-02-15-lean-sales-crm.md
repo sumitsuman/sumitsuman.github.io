@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: A Lean Sales CRM Workflow
+title: A Lean Sales CRM Workflow
 permalink: lean-sales-crm
 ---
 
@@ -16,11 +16,11 @@ We recently moved to the [Affinity model for Mentii](https://mentii.com/organiza
 *   <span>Whether the lead has been moved to the pipeline.</span>
 *   <span>Whether it is live, dead, or closed.&nbsp;</span>
 
-<span>**2. **Moving the lead to the pipeline means that we have initiated contact. Which, at this stage, means sending an email (in some cases we set up a call, but then we either send an email to either schedule a call, or to thank them for talking to us).&nbsp;</span>
+<span>**2.** Moving the lead to the pipeline means that we have initiated contact. Which, at this stage, means sending an email (in some cases we set up a call, but then we either send an email to either schedule a call, or to thank them for talking to us).&nbsp;</span>
 
 <span>Streak allows us to manage the entire pipeline within Gmail. We follow standard pipeline stage names, and update it as soon as there is a new interaction (email).&nbsp;</span>
 
-**3. **When a deal&nbsp;goes through, or dies, we go back and change the status in the spreadsheet.&nbsp;
+**3.** When a deal&nbsp;goes through, or dies, we go back and change the status in the spreadsheet.&nbsp;
 
 Rapportive fills in the all important role of seamlessly providing rich social intelligence for each contact.
 
