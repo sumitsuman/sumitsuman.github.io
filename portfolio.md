@@ -3,10 +3,10 @@ layout: page
 title: Portfolio
 ---
 
-*[inSync Share](http://www.druva.com/insync/file-sharing/)
+* [inSync Share](http://www.druva.com/insync/file-sharing/)
 
-*[Mentii](https://www.mentii.com)
+* [Mentii](https://www.mentii.com)
 
-*[Hotseat](http://hotseat.herokuapp.com/users/sign_up)
+* [Hotseat](http://hotseat.herokuapp.com/users/sign_up)
 
-*[Technothlon](http://techniche.org/technothlon/), long time ago
+* [Technothlon](http://techniche.org/technothlon/), long time ago
