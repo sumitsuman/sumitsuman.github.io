@@ -2,6 +2,7 @@
 layout: post
 title: A Lean Sales CRM Workflow
 permalink: lean-sales-crm
+comments: True
 ---
 
 We recently moved to the [Affinity model for Mentii](https://mentii.com/organizations). The biggest focus for us now, is to settle on a stable distribution process. Direct sales is an important element of it, and it&nbsp;<span>will give us a better idea of our cost of customer acquisition.&nbsp;</span><span>Finding a good CRM tool to help us do that is critical.&nbsp;</span>
