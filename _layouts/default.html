@@ -3,7 +3,6 @@
 
   {% include head.html %}
   {% include google_analytics.html %}
-  {% include comments.html %}
 
 
   <body>
@@ -24,6 +23,9 @@
 
       {{ content }}
 
+      {% include comments.html %}
+
+
       <div class="footer">
         <p>
           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
@@ -32,4 +34,6 @@
     </div>
 
   </body>
+
+
 </html>
