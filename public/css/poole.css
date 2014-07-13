@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h2 {
   margin-top: 1rem;
@@ -162,9 +162,9 @@ code {
 pre {
   display: block;
   margin-top: 0;
-  margin-bottom: 1rem;
-  padding: 1rem;
-  font-size: .8rem;
+  margin-bottom: 0.8rem;
+  padding: 0.8rem;
+  font-size: .6rem;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
