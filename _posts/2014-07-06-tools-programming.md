@@ -25,6 +25,6 @@ Also, it might make sense to create a [github](http://github.com) account to hos
 Since I want to experiment in JavaScript, I have a few options to run the applications that I write. I could do it in the browser by writing the code in the address bar, or I could go to [JSBIN](http://jsbin.com/). But yet, I think it makes more sense to use a proper editor, and use the command line to execute.  Hence, Node.js made sense. It is a runtime environment with libraries for javascript applications. It is [much more](http://stackoverflow.com/questions/1884724/what-is-node-js) than just that but we will get to that later.
 
 ###SublimeText 3:###
-I really like [Sublime Text](http://www.sublimetext.com/3) and I'm already developing some muscle memory for its shortcuts. It quite pleasing on the eye too. Here is a [handy guide](https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/) on popular tips and tricks.
+I really like [Sublime Text](http://www.sublimetext.com/3) and I'm already developing some muscle memory for its shortcuts. It is quite pleasing on the eye too. Here is a [handy guide](https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/) on popular tips and tricks.
 
 That's about it I think. I'll keep adding to this list as I start using more tools.
