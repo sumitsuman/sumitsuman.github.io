@@ -3,7 +3,7 @@ layout: page
 title: Hi there!
 ---
 
-![.](/assets/About_edited.png)
+![.](/assets/About_Sumit_Suman.jpg)
 
 Hi, my name is Sumit Suman.
 
