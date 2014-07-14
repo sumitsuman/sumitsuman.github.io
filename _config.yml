@@ -23,7 +23,7 @@ github:
 
 # Customization - Top navigation
 pages_list:
-  About: '/about'
+  #About: '/about'
+  Blog: '/blog'
   Portfolio: '/portfolio'
-  Archive: '/archive'
   #Contact: '/contact'
