@@ -28,3 +28,6 @@ Since I want to experiment in JavaScript, I have a few options to run the applic
 I really like [Sublime Text](http://www.sublimetext.com/3) and I'm already developing some muscle memory for its shortcuts. It is quite pleasing on the eye too. Here is a [handy guide](https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/) on popular tips and tricks.
 
 That's about it I think. I'll keep adding to this list as I start using more tools.
+
+
+{% include twitter_plug.html %}
