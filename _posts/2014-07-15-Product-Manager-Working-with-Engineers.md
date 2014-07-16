@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working with engineers as a product manager
-excerpt: My experience and learning from interacting with my super smart team of engineers.
+excerpt: My experience and learning from interacting with my super smart team of engineers
 permalink: working-with-engineers
 comments: True
 ---
