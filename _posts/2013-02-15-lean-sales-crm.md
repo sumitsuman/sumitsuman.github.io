@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Lean Sales CRM Workflow
+excerpt: A simple CRM setup for your scrappy startup
 permalink: lean-sales-crm
 comments: True
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tools For Getting Started with Programming
+excerpt: Tools which got me started with casual programming
 permalink: tools-programming
 comments: True
 ---

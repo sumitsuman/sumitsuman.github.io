@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working with engineers as a product manager
+excerpt: My experience and learning from interacting with my super smart team of engineers.
 permalink: working-with-engineers
 comments: True
 ---
@@ -12,7 +13,7 @@ comments: True
 
 I pushed hard to bring the entire team on HipChat. **As a team we share every idea**, every customer feedback, every complaint early. Features are born out of these discussions. As a product manager, my job is to take the crux of this throbbing-thriving idea exchange and give it some structure -- discover, socialize, validate, prototype, rinse, repeat.
 
-All this happens in front of the team. I take **no product decisions behind closed doors**. The team has seen a random idea take shape. It's their baby too when it finally comes to them for development. I have never seen the team cut corners after this point.
+All this happens in front of the team. I take **no product decisions behind closed doors**. The team sees the idea take shape. It's their baby too when it finally comes to them for development. I have never seen the team cut corners after this point.
 
 
 
