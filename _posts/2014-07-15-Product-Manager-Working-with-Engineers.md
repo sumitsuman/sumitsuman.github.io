@@ -6,7 +6,7 @@ comments: True
 ---
 
 
-**My first rule of working with engineers** is to never say that I'm working with engineers. They are people and they come in as much a variety as people do. They have a common trait that they are smart -- smarter than I’m . Which is a good thing because it keeps me on my toes to earn their respect.
+**My first rule of working with engineers** is to never say that I'm working with engineers. They are people who come in as much a variety as people do. They have a common trait that they are smart -- much smarter than I’m . Which is a good thing because it keeps me on my toes to earn their respect.
 
 **To be able to influence a super smart team**  who don't has to listen to me, I have to work hard. To convince them to spend tens of hours of effort into developing something, I better do my homework well. There is a trick though -- I don't have to do the homework in isolation.
 
