@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working with engineers as a product manager
+title: Working with engineers (as a product manager)
 excerpt: My experience and learning from interacting with my super smart team of engineers
 permalink: working-with-engineers
 comments: True
@@ -11,7 +11,7 @@ comments: True
 
 **To influence a super smart team**  who don't have to listen to me, I have to work hard. To convince them to spend tens of hours of effort into developing something, I have to do my homework well. There is a trick though -- I don't have to do the homework in isolation.
 
-I pushed hard to bring the entire team on HipChat. **As a team we share every idea**, every customer feedback, every complaint early. Features are born out of these discussions. As a product manager, my job is to take the crux of this throbbing-thriving idea exchange and give it some structure -- discover, socialize, validate, prototype, rinse, repeat.
+**As a team we share every idea**, every customer feedback, every complaint early. Features are born out of these discussions. As a product manager, my job is to take the crux of this throbbing-thriving idea exchange and give it some structure -- discover, socialize, validate, prototype, rinse, repeat.
 
 All this happens in front of the team. I take **no product decisions behind closed doors**. The team sees the idea take shape. It's their baby too when it finally comes to them for development. I have never seen the team cut corners after this point.
 
