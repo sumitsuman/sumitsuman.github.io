@@ -19,7 +19,7 @@ All this happens in front of the team and with their active participation. I tak
 
 <cite> A plug for the wonderful 'engineers' who helped me understand their mindset better:
 
-- *[Nitin](http://twitter.com/nitin_pande), the russian knife of a person. A developer, designer, product manager rolled into one package.*
+- *[Nitin](http://twitter.com/nitin_pande), the swiss knife of a person. A developer, designer, product manager rolled into one package.*
 
 - *[Andrew](https://www.linkedin.com/pub/andrew-lazarus/9/455/737), the builder turned engineer and probably the smartest person I have interacted with.*
 
