@@ -24,7 +24,7 @@ All this happens in front of the team and with their active participation. I tak
 
 - *[Andrew](https://www.linkedin.com/pub/andrew-lazarus/9/455/737), the builder turned engineer and probably the smartest person I have interacted with.*
 
-- *My wonderful Druva team -- [Chinmay](http://in.linkedin.com/in/achinmay), [Sameer](http://in.linkedin.com/in/sameertamsekar), [Abhijit](http://in.linkedin.com/in/vaidyaabhijit), [Saurabh](#), [Alok](https://www.linkedin.com/pub/alok-ranjan/7a/677/3b1). With folks like them, no wonder Druva produces the #1 product in a cutting edge market.*
+- *My wonderful Druva team -- [Chinmay](http://in.linkedin.com/in/achinmay), [Sameer](http://in.linkedin.com/in/sameertamsekar), [Abhijit](http://in.linkedin.com/in/vaidyaabhijit), [Saurabh](#), [Agni](http://in.linkedin.com/pub/agniswar-bakshi/4a/173/434), [Alok](https://www.linkedin.com/pub/alok-ranjan/7a/677/3b1). With folks like them, no wonder Druva produces the #1 product in a cutting edge market.*
 </cite>
 
 
