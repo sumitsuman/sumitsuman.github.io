@@ -6,6 +6,8 @@ permalink: working-with-engineers
 comments: True
 ---
 
+![.](/assets/working_with_engineers.jpg)
+
 
 **My first rule of working with engineers** is to never say that I'm working with engineers. They are people who come in as much a variety as people do. They have a common trait that they are smart -- much smarter than I’m . Which is a good thing because it keeps me on my toes to earn their respect.
 
@@ -27,5 +29,7 @@ All this happens in front of the team and with their active participation. I tak
 </cite>
 
 
+
+###### Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL)
 
 {% include twitter_plug.html %}
