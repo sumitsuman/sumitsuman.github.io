@@ -30,6 +30,6 @@ All this happens in front of the team and with their active participation. I tak
 
 
 
-^Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL)^
+<sub> Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL) </sub>
 
 {% include twitter_plug.html %}
