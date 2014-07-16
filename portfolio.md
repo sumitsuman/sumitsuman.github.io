@@ -5,7 +5,7 @@ title: Portfolio
 
 * [inSync Share](http://www.druva.com/insync/file-sharing/)
 
-* [Mentii](https://www.mentii.com)
+* [Mentii](/mentii)
 
 * [Hotseat](http://hotseat.herokuapp.com/users/sign_up)
 
