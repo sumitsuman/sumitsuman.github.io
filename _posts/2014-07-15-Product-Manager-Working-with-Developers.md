@@ -14,9 +14,9 @@ My success as a Product Manager depends on how well I work with the developers &
 
 **As a team we share every idea**, every customer feedback, every complaint early. Features are born out of these discussions. My job is to take the crux of this throbbing-thriving idea exchange and give it some structure -- discover, socialize, validate, prototype, rinse, repeat.
 
-All this happens in front of the team and with their active participation. I take **no product decisions behind closed doors**. The team sees the idea take shape. It's their baby too when it finally comes to them for development. I have never seen the team cut corners after this point.
+All this happens in front of the team and with their active participation. I take **no product decisions behind closed doors**. The team sees the idea take shape. It's their baby too when it finally comes to them for development.
 
-**When and how we communicate** is particularly important. While the team needs 100% context but I need to be careful about separating *referencable* information from the *actionable* one. We use persistant chat tools (Hipchat) for referencable communication so anyone can tune in or out as per their focus schedule. Email & Trello boards work better for actionable communication.
+**When and how we communicate** is particularly important. While the team needs context, I need to be careful about separating *referencable* information from the *actionable* one. We use persistant chat tools (Hipchat) for referencable communication so anyone can tune in or out as per their focus schedule. Email & Trello boards work better for actionable communication.
 
 **Ownership and handoff are critical.** In the design and validation phase, I'm the owner. The dev team provides input & recommendation but the decision lies with me. The role reverses when I hand-off the product requirements for development. This model works only when the team can trust that I have done my best, and vice-versa. I have to earn that trust and only then can I demand it back. It is hard. For example, I did miss a few test cases on a couple of features and we had to go back to the drawing board. But I gave my best, and the team saw it. We got better.
 
