@@ -25,18 +25,16 @@ One more thing. Despite all our best intentions, **things do go wrong. It is not
 I hope this post reaches product managers and developers who have had a far greater and varied experience than me. I'd love to learn from you. Please do write to me.
 
 
-<sub>
-<cite> A plug for the wonderful 'developers' who helped me understand their mindset better:
+<sub>A plug for the wonderful 'developers' who helped me understand their mindset better:</sub>
 
-- *[Nitin](http://twitter.com/nitin_pande), the swiss knife of a person. A developer, designer, product manager rolled into one package.*
+<sub>- *[Nitin](http://twitter.com/nitin_pande), the swiss knife of a person. A developer, designer, product manager rolled into one package.*</sub>
 
-- *[Andrew](https://www.linkedin.com/pub/andrew-lazarus/9/455/737), the builder turned engineer and probably the smartest person I have interacted with.*
+<sub>- *[Andrew](https://www.linkedin.com/pub/andrew-lazarus/9/455/737), the builder turned engineer and probably the smartest person I have interacted with.*</sub>
 
-- *My wonderful Druva team -- [Chinmay](http://in.linkedin.com/in/achinmay), [Sameer](http://in.linkedin.com/in/sameertamsekar), [Abhijit](http://in.linkedin.com/in/vaidyaabhijit), [Saurabh](#), [Agni](http://in.linkedin.com/pub/agniswar-bakshi/4a/173/434), [Alok](https://www.linkedin.com/pub/alok-ranjan/7a/677/3b1). With folks like them, no wonder Druva produces the #1 product in a cutting edge market.*
-</cite>
+<sub>- *My wonderful Druva team -- [Chinmay](http://in.linkedin.com/in/achinmay), [Sameer](http://in.linkedin.com/in/sameertamsekar), [Abhijit](http://in.linkedin.com/in/vaidyaabhijit), [Saurabh](#), [Agni](http://in.linkedin.com/pub/agniswar-bakshi/4a/173/434), [Alok](https://www.linkedin.com/pub/alok-ranjan/7a/677/3b1). With folks like them, no wonder Druva produces the #1 product in a cutting edge market.*</sub>
 
 
 
-Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL) </sub>
+<sub>Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL) </sub>
 
 {% include twitter_plug.html %}
