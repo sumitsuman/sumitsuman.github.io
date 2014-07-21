@@ -10,7 +10,7 @@ comments: True
 
 My success as a Product Manager depends on how well I work with the developers & engineers on my team. I have had the good fortune of working with a terrific bunch, and I'd love to share some of my experiences. It is no different than any other working relationship, which thrives on context, trust, communication, and empathy.
 
-**To influence team smarter than me**, I have to work hard. To convince them to spend tens of hours of effort into developing something, I have to do my homework well. There is a trick though -- I don't have to do the homework in isolation.
+**To influence a team smarter than me**, I have to work hard. To convince them to spend tens of hours of effort into developing something, I have to do my homework well. There is a trick though -- I don't have to do the homework in isolation.
 
 **As a team we share every idea**, every customer feedback, every complaint early. Features are born out of these discussions. My job is to take the crux of this throbbing-thriving idea exchange and give it some structure -- discover, socialize, validate, prototype, rinse, repeat.
 
