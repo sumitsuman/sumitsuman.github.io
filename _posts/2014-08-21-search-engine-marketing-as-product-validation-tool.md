@@ -43,6 +43,6 @@ Clicks can be expensive, and at best represent opportunity which will go waste i
 
 Thankfully Druva has a fairly well developed Sales engine. There are tools in place which provide the sales development team with the complete lifecyle of the lead. They take over from there to probe the need further and to schedule consultative calls. It takes a number of touches and persistence but the right leads do end up becoming satisfied customers.
 
-I guess that was a noob level guide to SEM, but when I got visibility into the whole process it seemed like revelation to me. Hope it helps you too.
+SEM is far more complex than this but this noob's guide was a revelation for me. I'd love to hear about your experience.
 
 {% include twitter_plug.html %}
