@@ -13,7 +13,7 @@ My goal was to see whether a product positioning that I was proposing resonates 
 
 The following was our plan:
 
-**1. Determine what keywords to target**
+**Determine what keywords to target**
 
 Guessing the right keyword is like getting inside the head of the customer. The exercise is a surreal experience (I'm not kidding!). Eric was very particular that we get this part right.
 
@@ -21,9 +21,9 @@ The interviews gave us a good start. We researched the Pay Per Click (PPC) strat
 
 > e.g. Keywords for security conscious customer, Keywords for collaboration focused customers.
 
-**2. Come up with ad text for the keyword groups**
+**Come up with ad text for the keyword groups**
 
-By the end of this exercise I understood empthathy better than ever. Our ad copy had to catch the attention of the person looking for that information. The goal was to make them click. Longtail keywords represented specific interest and we showed them ads with specific keywords. More generic key words meant a broader audience, and the goal was to cut down clicks from the irrelevant group.
+By the end of this exercise I understood empthathy a bit better. Our ad copy had to catch the attention of the person looking for that information. The goal was to make them click. Longtail keywords represented specific interest and we showed them ads with specific keywords. More generic key words meant a broader audience, and the goal was to cut down clicks from the irrelevant group.
 
 > For the keyword, “Enterprise file sharing with activity trails”, we showed an ad which mirrored some of the key words.
 > e.g. “Enterprise File Sharing -- Be always in control with detailed user activity trail”
@@ -32,16 +32,6 @@ By the end of this exercise I understood empthathy better than ever. Our ad copy
 >e.g. ”Secure Enterprise File Sharing”
 
 **After running these ads for a couple of weeks, we got a decent idea of the demand. It was not statistically significant but coupled with the interviews I had conducted before, it gave me a good sense.**
-
-We were also curious whether these leads could go all the way and actually buy the product. That involved a couple of more steps:
-
-**3. Make an offer that the can’t be refused**
-
-Clicks can be expensive, and at best represent opportunity which will go waste if not utilized properly. Based on the type of keyword we made educated guesses. If the lead was looking to learn, we wanted offer them a white paper. If they appeared to be researching products, we offered them free-trials.
-
-**4. Follow up respectfully but please do it**
-
-Thankfully Druva has a fairly well developed Sales engine. There are tools in place which provide the sales development team with the complete lifecyle of the lead. They take over from there to probe the need further and to schedule consultative calls. It takes a number of touches and persistence but the right leads do end up becoming satisfied customers.
 
 SEM is far more complex than this but this noob's guide was a revelation for me. I'd love to hear about your experience.
 
