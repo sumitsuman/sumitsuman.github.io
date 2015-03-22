@@ -7,14 +7,16 @@ permalink:        pretty
 
 # Setup
 title:            Sumit Suman
-tagline:
+tagline:          'Product Manager, Internet, World'
 url:              http://sumitsuman.com
+shorturl:         sumitsuman.com
+
 paginate:         1
 baseurl:          /
+
 author:
   name:           Sumit Suman
   url:            https://twitter.com/arraysum
-  email:          sumitsuman+website@gmail.com
 
 # Custom vars
 version:          1.0.0
