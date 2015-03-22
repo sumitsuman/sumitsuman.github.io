@@ -5,9 +5,7 @@ permalink: search-engine-marketing-as-product-validation-tool
 comments: True
 ---
 
-Search Engine Marketing used to sound like evil dark magic to me till I met this man: ![.](/assets/eric-tonk.jpg)
-
-[Eric Tonk](https://twitter.com/EricTonk) is the demand generation ninja at Druva. I wanted to test out a new positioning for my product, and Eric suggested that we run some quick google ads to gauge demand. He offered to coach me on how to quickly get started. I don’t regret taking him up on that offer. There are a lot of details on what went on after that, and how our campaign performed. I’ll skip all of that and come to what I learnt about search engine marketing from a product manager’s perspective.
+Search Engine Marketing used to sound like evil dark magic to me till I met [Eric Tonk](https://twitter.com/EricTonk),the demand generation ninja at Druva. I wanted to test out a new positioning for my product, and Eric suggested that we run some quick google ads to gauge demand. He offered to coach me on how to quickly get started. I don’t regret taking him up on that offer. There are a lot of details on what went on after that, and how our campaign performed. I’ll skip all of that and come to what I learnt about search engine marketing from a product manager’s perspective.
 
 My goal was to see whether a product positioning that I was proposing resonates with potential customers. I had already interviewed some of them and I wanted a second opinion. Also, our hypothesis was that people clicking on search ads were farther down in the buying cycle than my interview base was.
 
