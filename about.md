@@ -7,7 +7,7 @@ title: Hi there!
 
 Hi, my name is Sumit Suman.
 
-* I'm a product manager at [Druva](http://www.druva.com/), building the [file sharing product](http://www.druva.com/insync/file-sharing/)
+* I'm a product manager at [Nexmo](http://www.nexmo.com), building the [mobile chat app APIs](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/)
 
 * I live in [San Francisco](http://www.pictorymag.com/showcases/san-francisco/)
 
