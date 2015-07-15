@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Hi there!
+title: "Hi there!"
+published: true
 ---
+
 
 ![.](/assets/About_Sumit_Suman.jpg)
 
@@ -13,7 +15,4 @@ Hi, my name is Sumit Suman.
 
 * You can find me on [Twitter](http://twitter.com/arraysum) and [Linkedin](http://linkedin.com/in/sumitsuman)
 
-* I'm always up for a cup of cofee, just reach out to me at sumitsuman AT gmail
-
-
-
+* I'm always up for a cup of cofee, just reach out to me at sumitsuman AT gmail.com
