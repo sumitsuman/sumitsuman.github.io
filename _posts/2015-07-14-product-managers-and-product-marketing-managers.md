@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product Managers & Product Marketing Managers
+title: Product Managers and Product Marketing Managers
 permalink: product-managers-and-product-marketing-managers
 comments: True
 ---
@@ -29,6 +29,7 @@ i.e. product managers own the product development lifecycle, and product marketi
 <li> Continued market engagment phase, where the product battles it out in the market </li>
 <li> End-of-life phase, where the product is gracefully put to rest </li>
 </ol>
+
 In a typical product's life, product development and go-to-market phases go hand in hand. And hence, so do product managers and product marketing managers. One sequence is:
 
 ### 1 + a: Concept & pre-Launch 
