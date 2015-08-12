@@ -15,12 +15,14 @@ A successful product needs strong product development and strong go-to-market. F
 i.e. product managers own the product development lifecycle, and product marketing managers own the go-to-market lifecycle.
 
 **Product development lifecycle consists of:**
+
 1. Concept phase, where initial hypothesis is validated
 2. Growth phase, where the product grows out of its minimal avatar
 3. Maturity phase, where product finds its place, and the change slows down
 4. End-of-life phase, where the product is headed for sunset
 
 **Go-to-market lifecycle consists of:**
+
 <ol type="a">
 <li> Pre-launch phase, where the value proposition is discovered </li>
 <li> Launch phase, where the product is introduced to the world </li>
