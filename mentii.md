@@ -1,6 +1,6 @@
 ---
 title: Portfolio - Mentii
-permalink: mentii
+permalink: mentii/
 ---
 
 

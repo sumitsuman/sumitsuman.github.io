@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-Hi, my name is Sumit Suman. I'm a product manager at [Nexmo](http://www.nexmo.com), building the [mobile chat app APIs](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/). I live in [San Francisco](http://www.pictorymag.com/showcases/san-francisco/).
+Hi, my name is Sumit Suman. I'm a product manager at [Nexmo](http://www.nexmo.com), building the [mobile chat app APIs](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/), which is the first of its kind. I live in [San Francisco](http://www.pictorymag.com/showcases/san-francisco/).
 
 You can find me on [Twitter](http://twitter.com/arraysum) and [Linkedin](http://linkedin.com/in/sumitsuman).
 
