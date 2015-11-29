@@ -28,6 +28,3 @@ I hope this post reaches product managers and developers who have had a far grea
 >- *[Nitin](http://twitter.com/nitin_pande), the swiss knife of a person. A developer, designer, product manager rolled into one package.*
 >- *[Andrew](https://www.linkedin.com/pub/andrew-lazarus/9/455/737), the builder turned engineer and probably the smartest person I have interacted with.*
 >- *My wonderful Druva team -- [Chinmay](http://in.linkedin.com/in/achinmay), [Sameer](http://in.linkedin.com/in/sameertamsekar), [Abhijit](http://in.linkedin.com/in/vaidyaabhijit), [Saurabh](#), [Agni](http://in.linkedin.com/pub/agniswar-bakshi/4a/173/434), [Alok](https://www.linkedin.com/pub/alok-ranjan/7a/677/3b1). With folks like them, no wonder Druva produces the #1 product in a cutting edge market.*
-
-<sub> Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL) </sub>
-
