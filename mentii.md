@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Portfolio - Mentii
-comments: True
+permalink: mentii
 ---
 
 

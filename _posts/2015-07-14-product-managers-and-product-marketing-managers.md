@@ -1,8 +1,9 @@
 ---
 layout: post
+date:   2015-07-14
 title: Product Managers and Product Marketing Managers
 permalink: product-managers-and-product-marketing-managers
-comments: True
+description: A framework for collaboration between product managers and product marketing managers
 ---
 
 
@@ -16,11 +17,12 @@ i.e. product managers own the product development lifecycle, and product marketi
 
 **Product development lifecycle consists of:**
 
-1. Concept phase, where initial hypothesis is validated
-2. Growth phase, where the product grows out of its minimal avatar
-3. Maturity phase, where product finds its place, and the change slows down
-4. End-of-life phase, where the product is headed for sunset
+1) Concept phase, where initial hypothesis is validated<br>
+2) Growth phase, where the product grows out of its minimal avatar<br>
+3) Maturity phase, where product finds its place, and the change slows down<br>
+4) End-of-life phase, where the product is headed for sunset
 
+<br>
 **Go-to-market lifecycle consists of:**
 
 <ol type="a">
@@ -48,4 +50,3 @@ Opinion differs on who should lead in this phase -- both product and product mar
 This is just one model. Different companies follow a variation, with varying degrees of success. There are other roles, for example Product Operations, which play a role too. I'd love to hear more if you seen something different. 
 
 
-{% include twitter_plug.html %}

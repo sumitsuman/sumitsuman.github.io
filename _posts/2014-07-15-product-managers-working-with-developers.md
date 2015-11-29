@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Working with developers (as a product manager)
+date:   2014-07-15
+title: Product Managers and Developers
 permalink: working-with-developers
-comments: True
+description: How to develop a great working relationship with your engineering team
 ---
 
-![.](/assets/working_with_engineers.jpg)
+![.](http://sumitsuman.com/assets/working_with_engineers.jpg)
 
 
 My success as a Product Manager depends on how well I work with the developers & engineers on my team. I have had the good fortune of working with a terrific bunch, and I'd love to share some of my experiences. It is no different than any other working relationship, which thrives on context, trust, communication, and empathy.
@@ -33,4 +34,3 @@ I hope this post reaches product managers and developers who have had a far grea
 
 <sub> Image credits: [Seattle Municipal Archives](https://flic.kr/p/6XidPL) </sub>
 
-{% include twitter_plug.html %}

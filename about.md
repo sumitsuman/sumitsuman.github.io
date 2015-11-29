@@ -1,18 +1,26 @@
 ---
-layout: page
-title: "Hi there!"
-published: true
+title: About
+permalink: about/
+profile: true
 ---
 
+Hi, my name is Sumit Suman. I'm a product manager at [Nexmo](http://www.nexmo.com), building the [mobile chat app APIs](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/). I live in [San Francisco](http://www.pictorymag.com/showcases/san-francisco/).
 
-![.](/assets/About_Sumit_Suman.jpg)
+You can find me on [Twitter](http://twitter.com/arraysum) and [Linkedin](http://linkedin.com/in/sumitsuman).
 
-Hi, my name is Sumit Suman.
+I'm always up for a cup of cofee, just reach out to me at sumitsuman AT gmail.
 
-* I'm a product manager at [Nexmo](http://www.nexmo.com), building the [mobile chat app APIs](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/)
+A sample of my work over the last couple of years includes:
 
-* I live in [San Francisco](http://www.pictorymag.com/showcases/san-francisco/)
+<li> [Mobile Chat App API](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/)
 
-* You can find me on [Twitter](http://twitter.com/arraysum) and [Linkedin](http://linkedin.com/in/sumitsuman)
+<li> [inSync Share](http://www.druva.com/insync/file-sharing/)
 
-* I'm always up for a cup of cofee, just reach out to me at sumitsuman AT gmail.com
+<li> [Mentii](/mentii)
+
+<li> [Hotseat](http://hotseat.herokuapp.com/users/sign_up)
+
+<li> [Technothlon](http://techniche.org/technothlon/), long time ago
+
+
+{% include footer.html %}

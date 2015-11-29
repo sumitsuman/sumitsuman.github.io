@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Search Engine Marketing as a Product Validation Tool
+date: 2014-08-21
 permalink: search-engine-marketing-as-product-validation-tool
-comments: True
+description: Use SEM to quickly and cheaply validate product concepts 
 ---
 
 Search Engine Marketing used to sound like evil dark magic to me till I met [Eric Tonk](https://twitter.com/EricTonk), the demand generation ninja at Druva. I wanted to test out a new positioning for my product, and Eric suggested that we run some quick google ads to gauge demand. He offered to coach me on how to quickly get started. I don’t regret taking him up on that offer. There are a lot of details on what went on after that, and how our campaign performed. I’ll skip all of that and come to what I learnt about search engine marketing from a product manager’s perspective.
@@ -33,4 +34,3 @@ By the end of this exercise I understood empthathy a bit better. Our ad copy had
 
 SEM is far more complex than this but this noob's guide was a revelation for me. I'd love to hear about your experience.
 
-{% include twitter_plug.html %}

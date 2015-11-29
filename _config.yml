@@ -1,37 +1,55 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+name: Sumit Suman
+description: Building messaging and collaboration products 
+meta_description: "Blogging about building messaging, chat, and collaboration products"
+
+aboutPage: true
+
+markdown: redcarpet
+redcarpet:
+    extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+
+highlighter: pygments
 
 # Permalinks
 permalink:        pretty
-
-# Setup
-title:            Sumit Suman
-tagline:          
-url:              http://sumitsuman.com
-shorturl:         sumitsuman.com
-
-paginate:         1
-baseurl:          /
-
-author:
-  name:           Sumit Suman
-  url:            https://twitter.com/arraysum
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/sumitsuman/sumitsuman.github.io
-
-# Customization - Top navigation
-pages_list:
-  #About: '/about'
-  Blog: '/blog'
-  Portfolio: '/portfolio'
-  #Contact: '/contact'
+#permalink:       /:year/:title/
 
 
-  # Allow URL Redirects: 
-#  * https://help.github.com/articles/redirects-on-github-pages
+
+paginate: 20
+baseurl: /
+domain_name: 'http://sumitsuman.com'
+google_analytics: 'UA-52590209-1'
+disqus: false
+disqus_shortname: 'arraysum'
+
+# Details for the RSS feed generator
+url:            'http://sumitsuman.com'
+author:         'Sumit Suman'
+authorTwitter:  'arraysum'
+
 gems:
-  - jekyll-redirect-from
+  #- jekyll-redirect-from
+  - jekyll-paginate
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+
