@@ -4,23 +4,28 @@ permalink: about/
 profile: true
 ---
 
-Hi, my name is Sumit Suman. I'm a product manager at [Nexmo](http://www.nexmo.com), building the [mobile chat app APIs](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/), which is the first of its kind. I live in [San Francisco](http://www.pictorymag.com/showcases/san-francisco/).
+Hi, my name is Sumit Suman. I’m a product owner with a track record of bringing multiple concepts to life. My various teams and I have successfully launched a communication API for chat & messenger apps (Nexmo), revived an enterprise file sharing business (Druva), founded a consumer mentoring network & an alumni engagement product company (Mentii), and incubated a low cost healthcare asset management & tracking solution (Avery Dennison). My teams have been lean and did whatever it took to make the product and business successful. As a result, what I have learned touches upon the entire product lifecycle.
 
-You can find me on [Twitter](http://twitter.com/arraysum) and [Linkedin](http://linkedin.com/in/sumitsuman).
+**Idea validation**:
+I follow a hypothesis-testing framework for conducting unbiased customer / user research. I use the learning about unmet needs to develop and refine the product concept.
 
-I'm always up for a cup of cofee, just reach out to me at sumitsuman AT gmail.
+**Product development**: 
+I convert the product concept into a targeted set of feature requirements along with wireframes and/or API drafts before collaborating with design and engineering teams to develop the product with agility. 
 
-A sample of my work over the last couple of years includes:
+**Go-to-market**:
+I develop buyer persona and market research driven product positioning and pricing. I have an in-depth understanding of how demand generation (organic & paid) and PR teams work.
 
-<li> [Mobile Chat App API](https://www.nexmo.com/blog/2015/04/07/introducing-nexmo-chat-app-api-2/)
+**Strategy, Sales, Partnerships, & Operations**:
+My management consulting and MBA training helps me be data & results driven, articulate in written content and in person, and to understand the business considerations of customers and partners. 
 
-<li> [inSync Share](http://www.druva.com/insync/file-sharing/)
+**Support**:
+For each new product, I act as the initial primary support person to better develop customer empathy. 
 
-<li> [Mentii](/mentii)
+I’m also a productivity and collaboration practitioner. I write about my learning here.
 
-<li> [Hotseat](http://hotseat.herokuapp.com/users/sign_up)
+You can find more detailed information over [Linkedin](https://www.linkedin.com/in/sumitsuman). You may also follow me on [Twitter](https://twitter.com/arraysum).
 
-<li> [Technothlon](http://techniche.org/technothlon/), long time ago
+I live in San Francisco and always available for a cup of coffee. Email me at my "firstname"."lastname"@gmail.com to schedule it.
 
 
 {% include footer.html %}
