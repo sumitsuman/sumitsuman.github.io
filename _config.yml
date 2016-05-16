@@ -4,11 +4,11 @@ meta_description: "Blogging about building messaging, chat, and collaboration pr
 
 aboutPage: true
 
-markdown: redcarpet
-redcarpet:
-    extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+markdown: kramdown
+#redcarpet:
+   # extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 
-highlighter: pygments
+highlighter: rouge
 
 # Permalinks
 permalink:        pretty
