@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2016-03-14
+date:   2016-05-15
 title: Prioritizing Out of Chaos
 permalink: prioritizing-out-of-chaos
 description: How I spend most of my day on the most important stuff 
