@@ -9,7 +9,7 @@ description: How I spend most of my day on the most important stuff
 ![Most Important](/assets/images/mostimportant.jpg)
 
 ## The Most Important Stuff
-30 minutes on Sunday night helps me avoid chaos during the week. My routine is to look at everything on my plate and note down the most important ones. **Everyday, before I start something new, I see this list to make sure I spend most of my day on the most important stuff.** This is all the project management that my teams and I need. This system relies on 3 pillars:
+30 minutes on Sunday night helps me avoid chaos during the week. My routine is to look at everything on my plate and note down the most important ones. Usually 6–10 items. **Everyday, before I start something new, I see this list to make sure I spend most of my day on the most important stuff.** This is all the project management that my teams and I need. This system relies on 3 pillars:
 
 ## 1. Big Needle(s) to Move
 I must always know what big needle(s) we are trying to move. Without that explicit knowledge, I can never identify the most important items. The big needle could depend on the goal for my team; it could be an impending milestone; or be driven by a crisis. Knowing what to focus on wins half the battle. 
