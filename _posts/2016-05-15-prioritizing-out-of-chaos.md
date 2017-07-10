@@ -1,14 +1,12 @@
 ---
 layout: post
 date:   2016-05-15
-title: The Most Important Stuff
-permalink: most-important-stuff
-description: How I spend most of my day on the most important stuff 
+title: Prioritizing out of chaos
+subtitle: How I focus on the most important stuff
+bigimg: /img/chaos.png
 ---
 
-![Most Important](/assets/images/mostimportant.png)
 
-# The Most Important Stuff Routine
 30 minutes on Sunday night helps me avoid chaos during the week. My routine is to look at everything on my plate and note down the most important ones. Usually 6–10 items. **Everyday, before I start something new, I see this list to make sure I spend most of my day on the most important stuff.** This is all the project management that my teams and I need. This system relies on 3 pillars:
 
 ## 1. Big Needle(s) to Move

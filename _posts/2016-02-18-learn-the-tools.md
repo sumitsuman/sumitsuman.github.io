@@ -1,12 +1,11 @@
 ---
 layout: post
-date:   2016-02-18
-title: Stop Complaining And Master The Tools You Use
-permalink: master-the-tools-you-use
-description: Master the tools you use daily to become better at your job and more useful to your team
+date: 2016-02-18
+title: Master The Tools You Use
+subtitle: Become better at your job and more useful to your team
+bigimg: /img/learn-the-tools.jpg
 ---
 
-![Expert Tool](/assets/images/learn-the-tools.jpg)
 
 > “I missed the email because I don’t understand how Gmail works. Outlook was so much better”
 

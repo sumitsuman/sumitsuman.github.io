@@ -2,14 +2,14 @@
 layout: post
 date:   2015-07-14
 title: Product Managers and Product Marketing Managers
-permalink: product-managers-and-product-marketing-managers
-description: A framework for collaboration between product managers and product marketing managers
+subtitle: A framework for collaboration 
 ---
 
 
 A successful product needs strong product development and strong go-to-market. For most B2B and Enterprise products, that means successful collaboration between product managers and product marketing managers. This collaboration begins with a clear definition of roles:
 
 [As Marty Kagan puts it](http://www.svpg.com/product-management-vs-product-marketing/),
+
 > The product manager is responsible for defining – in detail – the product to be built, and validate that product with real customers and users. The product marketing person is responsible for telling the world about that product, managing the product launch, providing tools for the sales channel to market and sell the product, and for leading key programs such as online marketing and influencer marketing programs.
 
 

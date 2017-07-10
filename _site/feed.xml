@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sumit Suman</title>
+    <description>A place on the internet for me</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Prioritizing out of chaos</title>
+        <description>
+          How I focus on the most important stuff - 
+          30 minutes on Sunday night helps me avoid chaos during the week. My routine is to look at everything on my plate and note down the most important ones. Usually 6–10 items. Everyday, before I start something new, I see this list to make sure I spend most of my...
+        </description>
+        <pubDate>Sun, 15 May 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/prioritizing-out-of-chaos/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/prioritizing-out-of-chaos/</guid>
+      </item>
+    
+      <item>
+        <title>Master The Tools You Use</title>
+        <description>
+          Become better at your job and more useful to your team - 
+          “I missed the email because I don’t understand how Gmail works. Outlook was so much better” “Trello is SO complicated. I can’t touch it.” “Slack is for slackers” It is not cool to produce low quality output and blame it on the tool we had to use. A lot of...
+        </description>
+        <pubDate>Thu, 18 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/learn-the-tools/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/learn-the-tools/</guid>
+      </item>
+    
+      <item>
+        <title>Product Managers and Product Marketing Managers</title>
+        <description>
+          A framework for collaboration - 
+          A successful product needs strong product development and strong go-to-market. For most B2B and Enterprise products, that means successful collaboration between product managers and product marketing managers. This collaboration begins with a clear definition of roles: As Marty Kagan puts it, The product manager is responsible for defining – in...
+        </description>
+        <pubDate>Tue, 14 Jul 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/product-managers-and-product-marketing-managers/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/product-managers-and-product-marketing-managers/</guid>
+      </item>
+    
+      <item>
+        <title>Search Engine Marketing as a Product Validation Tool</title>
+        <description>
+          Quickly and cheaply validate product concepts - 
+          Search Engine Marketing used to sound like evil dark magic to me till I met Eric Tonk, the demand generation ninja at Druva. I wanted to test out a new positioning for my product, and Eric suggested that we run some quick google ads to gauge demand. He offered to...
+        </description>
+        <pubDate>Thu, 21 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/search-engine-marketing-as-product-validation-tool/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/search-engine-marketing-as-product-validation-tool/</guid>
+      </item>
+    
+      <item>
+        <title>Product Managers and Developers</title>
+        <description>
+          Develop a great working relationship with your engineering team - 
+          My success as a Product Manager depends on how well I work with the developers &amp;amp; engineers on my team. I have had the good fortune of working with a terrific bunch, and I’d love to share some of my experiences. It is no different than any other working relationship,...
+        </description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/product-managers-working-with-developers/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/product-managers-working-with-developers/</guid>
+      </item>
+    
+      <item>
+        <title>A Lean Sales CRM Workflow</title>
+        <description>
+          Start your sales engine for free - 
+          We recently moved to the Affinity model for Mentii. The biggest focus for us now, is to settle on a stable distribution process. Direct sales is an important element of it, and it will give us a better idea of our cost of customer acquisition. Finding a good CRM tool...
+        </description>
+        <pubDate>Fri, 15 Feb 2013 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/lean-sales-crm/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lean-sales-crm/</guid>
+      </item>
+    
+  </channel>
+</rss>

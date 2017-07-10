@@ -2,8 +2,7 @@
 layout: post
 date:   2014-07-15
 title: Product Managers and Developers
-permalink: working-with-developers
-description: How to develop a great working relationship with your engineering team
+subtitle: Develop a great working relationship with your engineering team
 ---
 
 My success as a Product Manager depends on how well I work with the developers & engineers on my team. I have had the good fortune of working with a terrific bunch, and I'd love to share some of my experiences. It is no different than any other working relationship, which thrives on context, trust, communication, and empathy.
