@@ -26,7 +26,7 @@ For each new product, I act as the initial primary support person to better deve
 
 I’m also a productivity and collaboration practitioner. I write about my learning here.
 
-You can find more detailed information over [Linkedin](https://www.linkedin.com/in/sumitsuman). You may also follow me on [Twitter](https://twitter.com/arraysum).
+You can find more detailed [resume here](/resume). You may also follow me on [Twitter](https://twitter.com/arraysum).
 
 I live in Berlin and always available for a cup of coffee. Email me at my "firstname"."lastname"@gmail.com to schedule it.
 
