@@ -21,6 +21,8 @@ My management consulting and MBA training helps me be data & results driven, art
 **Support**:
 For each new product, I act as the initial primary support person to better develop customer empathy.
 
+
 You can find more detailed [resume here](http://sumitsuman.com/resume). You may also follow me on [Twitter](https://twitter.com/arraysum).
 
 I live in Berlin and always available for a cup of coffee. Email me at my "firstname"."lastname"@gmail.com to schedule it.
+

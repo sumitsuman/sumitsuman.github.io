@@ -23,7 +23,7 @@ description: A place on the internet for me
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  #Blog: "blog"
   #Projects:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
