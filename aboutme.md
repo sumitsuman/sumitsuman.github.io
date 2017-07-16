@@ -24,5 +24,11 @@ For each new product, I act as the initial primary support person to better deve
 
 You can find more detailed [resume here](http://sumitsuman.com/resume). You may also follow me on [Twitter](https://twitter.com/arraysum).
 
-I live in Berlin and always available for a cup of coffee. Email me at my "firstname"."lastname"@gmail.com to schedule it.
+I live in Berlin and always available for a cup of coffee. 
+
+
+**How to contact me:**
+
+* Drop me a line at sumitsuman+website@gmail.com
+* For commercial engagement (recruiters / expert networks), please use [21.co/sumitsuman](https://21.co/sumitsuman). I donate to [Folding at Home](http://folding.stanford.edu/)
 
