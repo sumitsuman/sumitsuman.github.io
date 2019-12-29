@@ -17,7 +17,7 @@ baseurl: ""
 title: Sumit Suman
 
 # Short description of your site
-description: A place on the internet for me
+description: Blog
 
 # --- Navigation bar options --- #
 
@@ -83,7 +83,7 @@ url-pretty: "sumitsuman.com"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-52590209-1"
+#google_analytics: "UA-52590209-1"
 
 # Google Tag Manager ID
 #gtm: ""
